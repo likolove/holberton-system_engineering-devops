@@ -1,0 +1,1 @@
+Learning script and how to change permissions.
