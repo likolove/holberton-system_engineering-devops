@@ -1,2 +1,3 @@
 #!/bin/bash
 -r-xr--r--
+cmod u+x hello.sh
