@@ -1,2 +1,2 @@
 #!/bin/bash
-echo _user="$(id -u -n)"
+echo $USER=hello
