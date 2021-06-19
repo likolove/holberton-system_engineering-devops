@@ -1,0 +1,1 @@
+Learning the fundamentals of open source OS including alias command, special parameters, variables and working with files.
