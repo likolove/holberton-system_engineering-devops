@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Bash script displaying content of directory in list format, only after dash. 
+for f in *; 
+do
+ echo "$f" | cut -d "-" -f 2
+done
